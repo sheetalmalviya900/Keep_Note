@@ -1,3 +1,17 @@
 {
-  "viewNotes":[]
+  "viewNotes": [
+    {
+      "Note": "Sheetal Malviya",
+      "Date": "2023-03-03",
+      "Category": "Professional",
+      "id": 1
+    },
+    {
+      "Note": "Aarti Kumari",
+      "Date": "2023-03-10",
+      "Category": "Personal",
+      "id": 2
+    }
+   
+  ]
 }
